@@ -7,6 +7,7 @@ barkod = input("belgenin barkod kodunu giriniz:")
 tc = input("tckn giriniz:")
 
 bilgi = getJson(barkod,tc)
+print(bilgi)
 if checkValid(bilgi) == False:
     print("Belge doğrulanamadı")
 else:
