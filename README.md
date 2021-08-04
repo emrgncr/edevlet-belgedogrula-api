@@ -5,7 +5,7 @@ e-devlete giriş yapmadan e-devlet belgelerini doğrulamak için (örnek olarak 
 ## Özellikleri
 
  - Barkod numarası ve TC kimlik numarası ile belge doğrulama
- - Doğrulanan belgenin bir kopyasını pdf olarak kaydetme
+ - Doğrulanan belgenin bir kopyasını PDF olarak kaydetme
  - QR kodundan barkod numarası ve TC kimlik numarası üretme
  - QR kodundan belge doğrulama
  - QR kodundan doğrulanmış belgenin kopyasını oluşturma
