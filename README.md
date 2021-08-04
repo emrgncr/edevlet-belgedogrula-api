@@ -1,7 +1,7 @@
 # edevlet-belgedogrula-api
 e-devlet api'ından belge doğrulayan ufak bir python scripti.
 
-e-devlete giriş yapmadan e-devlet belgelerini doğrulamak için (örnek olarak adli sicil kaydı, öğrenci belgesi..) e-devlet apisini kullanır.
+e-devlete giriş yapmadan e-devlet belgelerini doğrulamak için (örnek olarak adli sicil kaydı, öğrenci belgesi..) e-devlet api'ını kullanır.
 ## Özellikleri
 
  - Barkod numarası ve TC kimlik numarası ile belge doğrulama
